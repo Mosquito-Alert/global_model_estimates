@@ -1,0 +1,118 @@
+NAME_1,year,month,est,se
+Abruzzo,2014,10,0,0
+Aegean,2014,10,0,0
+Andalucía,2014,10,0,0
+Apulia,2014,10,0,0
+Aragón,2014,10,0,0
+Attica,2014,10,0,0
+Bács-Kiskun,2014,10,0.001,0.03162277660168379
+Baranya,2014,10,0.261,0.4393996723622721
+Basilicata,2014,10,0,0
+Bayern,2014,10,1.087,0.5832891555388731
+Berlin,2014,10,0,0
+Borsod-Abaúj-Zemplén,2014,10,0.028,0.16505527329729044
+Bucharest,2014,10,0,0
+Budapest,2014,10,0.022,0.1467567291047928
+Burgas,2014,10,0,0
+Burgenland,2014,10,1.236,0.5806539036557543
+Calabria,2014,10,0,0
+California,2014,10,0,0
+Campania,2014,10,0,0
+Cantabria,2014,10,0.002,0.04469897088298564
+Castilla y León,2014,10,0,0
+Castilla-La Mancha,2014,10,0,0
+Cataluña,2014,10,0,0
+Ceuta y Melilla,2014,10,0,0
+Cluj,2014,10,0.002,0.04469897088298564
+Comunidad de Madrid,2014,10,0,0
+Comunidad Foral de Navarra,2014,10,0,0
+Comunidad Valenciana,2014,10,0,0
+Csongrád,2014,10,0,0
+Drenthe,2014,10,0,0
+Emilia-Romagna,2014,10,0,0
+Extremadura,2014,10,0,0
+Fier,2014,10,0,0
+Flevoland,2014,10,0,0
+Friesland,2014,10,0,0
+Friuli-Venezia Giulia,2014,10,0.487,0.5000810745080052
+Galicia,2014,10,0,0
+Gelderland,2014,10,0,0
+Grad Beograd,2014,10,0,0
+Grad Sofiya,2014,10,0,0
+Grad Zagreb,2014,10,0,0
+Groningen,2014,10,0,0
+Gyor-Moson-Sopron,2014,10,0.036,0.18638331132035063
+Hajdú-Bihar,2014,10,0.573,0.49488980179017217
+Heves,2014,10,0.51,0.5317919171623237
+Hong Kong,2014,10,0,0
+IJsselmeer,2014,10,0,0
+Islas Baleares,2014,10,0,0
+Islas Canarias,2014,10,0,0
+Istanbul,2014,10,0,0
+Jász-Nagykun-Szolnok,2014,10,0,0
+Južno-Bački,2014,10,0.011,0.10435463521037236
+Kärnten,2014,10,0.819,1.433181715800052
+Kocaeli,2014,10,0,0
+Komárom-Esztergom,2014,10,0.014,0.1536387150898997
+Krapinsko-Zagorska,2014,10,0.282,0.45019848809017415
+La Libertad,2014,10,0,0
+La Rioja,2014,10,0,0
+Lazio,2014,10,0,0
+Liguria,2014,10,0,0
+Limburg,2014,10,0.005,0.07056897321046962
+Lombardia,2014,10,0,0
+Macedonia and Thrace,2014,10,0,0
+Maharashtra,2014,10,0,0
+Marche,2014,10,0,0
+Molise,2014,10,0,0
+Niederösterreich,2014,10,0.5760000000000001,1.143326194815021
+Noord-Brabant,2014,10,0,0
+Noord-Holland,2014,10,0,0
+Normandie,2014,10,0,0
+Nouvelle-Aquitaine,2014,10,0,0
+Obalno-kraška,2014,10,0,0
+Oberösterreich,2014,10,1.894,2.668840426748106
+Occitanie,2014,10,0,0
+Osrednjeslovenska,2014,10,0,0
+Overijssel,2014,10,0,0
+País Vasco,2014,10,0.034,0.2338230972356859
+Pest,2014,10,0.584,1.0651874877549814
+Piemonte,2014,10,0,0
+Principado de Asturias,2014,10,0,0
+Prizren,2014,10,0,0
+Provence-Alpes-Côte d'Azur,2014,10,0,0
+Punjab,2014,10,0,0
+Razgrad,2014,10,0,0
+Región de Murcia,2014,10,0,0
+Rheinland-Pfalz,2014,10,0.005,0.07056897321046962
+Sakarya,2014,10,0,0
+Salzburg,2014,10,0.012,0.14920511430480726
+Sardegna,2014,10,0,0
+Sicily,2014,10,0,0
+Solothurn,2014,10,0.668,0.4711666350644939
+Somogy,2014,10,0,0
+Steiermark,2014,10,1.279,1.091869400422397
+Telangana,2014,10,0,0
+Ticino,2014,10,0.341,0.4742825570732535
+Tiranë,2014,10,0,0
+Tirol,2014,10,0.637,0.6621105214772693
+Toscana,2014,10,0,0
+Trentino-Alto Adige,2014,10,0,0
+Umbria,2014,10,0,0
+Utrecht,2014,10,0,0
+Valle d'Aosta,2014,10,0,0
+Varna,2014,10,0,0
+Vas,2014,10,0.089,0.2848862231842041
+Veneto,2014,10,0,0
+Veszprém,2014,10,0,0
+Vlaanderen,2014,10,0,0
+Vorarlberg,2014,10,0.418,0.5559454523781501
+Wien,2014,10,0.03,0.17067257872642908
+Zadarska,2014,10,0,0
+Zala,2014,10,0,0
+Zeeland,2014,10,0,0
+Zeeuwse meren,2014,10,0,0
+Zug,2014,10,0.93,0.25527468571161765
+Zuid Hollandse Meren,2014,10,0,0
+Zuid-Holland,2014,10,0,0
+Zürich,2014,10,0.977,0.1499783100768024

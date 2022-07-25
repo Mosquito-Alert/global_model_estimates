@@ -1,0 +1,118 @@
+NAME_1,year,month,est,se
+Abruzzo,2018,01,0,0
+Aegean,2018,01,0,0
+Andalucía,2018,01,0,0
+Apulia,2018,01,0,0
+Aragón,2018,01,0,0
+Attica,2018,01,0,0
+Bács-Kiskun,2018,01,0,0
+Baranya,2018,01,0.101,0.3014795016081357
+Basilicata,2018,01,0,0
+Bayern,2018,01,0.872,0.38117068323517317
+Berlin,2018,01,0,0
+Borsod-Abaúj-Zemplén,2018,01,0.226,0.41844844258175834
+Bucharest,2018,01,0,0
+Budapest,2018,01,0.017,0.1293357171384909
+Burgas,2018,01,0,0
+Burgenland,2018,01,1.038,0.9032515267789525
+Calabria,2018,01,0,0
+California,2018,01,0,0
+Campania,2018,01,0,0
+Cantabria,2018,01,0.003,0.05471740119919799
+Castilla y León,2018,01,0,0
+Castilla-La Mancha,2018,01,0,0
+Cataluña,2018,01,0,0
+Ceuta y Melilla,2018,01,0,0
+Cluj,2018,01,0,0
+Comunidad de Madrid,2018,01,0,0
+Comunidad Foral de Navarra,2018,01,0,0
+Comunidad Valenciana,2018,01,0,0
+Csongrád,2018,01,0,0
+Drenthe,2018,01,0,0
+Emilia-Romagna,2018,01,0,0
+Extremadura,2018,01,0,0
+Fier,2018,01,0,0
+Flevoland,2018,01,0,0
+Friesland,2018,01,0,0
+Friuli-Venezia Giulia,2018,01,0.014,0.11754921445002436
+Galicia,2018,01,0,0
+Gelderland,2018,01,0,0
+Grad Beograd,2018,01,0,0
+Grad Sofiya,2018,01,0,0
+Grad Zagreb,2018,01,0,0
+Groningen,2018,01,0,0
+Gyor-Moson-Sopron,2018,01,0.294,0.45581988961844544
+Hajdú-Bihar,2018,01,0.002,0.04469897088298564
+Heves,2018,01,0.076,0.34463481697366044
+Hong Kong,2018,01,0,0
+IJsselmeer,2018,01,0,0
+Islas Baleares,2018,01,0,0
+Islas Canarias,2018,01,0,0
+Istanbul,2018,01,0,0
+Jász-Nagykun-Szolnok,2018,01,0,0
+Južno-Bački,2018,01,0.001,0.03162277660168379
+Kärnten,2018,01,1.445,1.4535267283780648
+Kocaeli,2018,01,0,0
+Komárom-Esztergom,2018,01,0.065,0.27649818158136724
+Krapinsko-Zagorska,2018,01,0.339,0.47360669685225454
+La Libertad,2018,01,0,0
+La Rioja,2018,01,0,0
+Lazio,2018,01,0,0
+Liguria,2018,01,0,0
+Limburg,2018,01,0,0
+Lombardia,2018,01,0,0
+Macedonia and Thrace,2018,01,0,0
+Maharashtra,2018,01,0,0
+Marche,2018,01,0,0
+Molise,2018,01,0,0
+Niederösterreich,2018,01,0,0
+Noord-Brabant,2018,01,0,0
+Noord-Holland,2018,01,0,0
+Normandie,2018,01,0,0
+Nouvelle-Aquitaine,2018,01,0,0
+Obalno-kraška,2018,01,0,0
+Oberösterreich,2018,01,3.282,3.7079109440163913
+Occitanie,2018,01,0,0
+Osrednjeslovenska,2018,01,0,0
+Overijssel,2018,01,0,0
+País Vasco,2018,01,0.002,0.04469897088298564
+Pest,2018,01,0.017,0.17648120210308257
+Piemonte,2018,01,0,0
+Principado de Asturias,2018,01,0.003,0.05471740119919799
+Prizren,2018,01,0,0
+Provence-Alpes-Côte d'Azur,2018,01,0,0
+Punjab,2018,01,0,0
+Razgrad,2018,01,0,0
+Región de Murcia,2018,01,0,0
+Rheinland-Pfalz,2018,01,0.072,0.2586172517116422
+Sakarya,2018,01,0,0
+Salzburg,2018,01,0.013,0.11333068359382575
+Sardegna,2018,01,0,0
+Sicily,2018,01,0,0
+Solothurn,2018,01,0.56,0.4966353256129156
+Somogy,2018,01,0,0
+Steiermark,2018,01,0.721,0.941084657495042
+Telangana,2018,01,0,0
+Ticino,2018,01,0.393,0.4886612219010117
+Tiranë,2018,01,0,0
+Tirol,2018,01,0.8029999999999999,1.4547645643912754
+Toscana,2018,01,0,0
+Trentino-Alto Adige,2018,01,0,0
+Umbria,2018,01,0,0
+Utrecht,2018,01,0,0
+Valle d'Aosta,2018,01,0,0
+Varna,2018,01,0,0
+Vas,2018,01,0.25,0.4332293707583636
+Veneto,2018,01,0,0
+Veszprém,2018,01,0,0
+Vlaanderen,2018,01,0,0
+Vorarlberg,2018,01,0.491,0.8119741558414695
+Wien,2018,01,0,0
+Zadarska,2018,01,0,0
+Zala,2018,01,0,0
+Zeeland,2018,01,0,0
+Zeeuwse meren,2018,01,0,0
+Zug,2018,01,0.805,0.39639895576569334
+Zuid Hollandse Meren,2018,01,0,0
+Zuid-Holland,2018,01,0,0
+Zürich,2018,01,0.857,0.3502480173729377

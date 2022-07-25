@@ -1,0 +1,118 @@
+NAME_1,year,month,est,se
+Abruzzo,2019,11,0,0
+Aegean,2019,11,0,0
+Andalucía,2019,11,0,0
+Apulia,2019,11,0,0
+Aragón,2019,11,0,0
+Attica,2019,11,0,0
+Bács-Kiskun,2019,11,0.001,0.03162277660168379
+Baranya,2019,11,0.226,0.41844844258175834
+Basilicata,2019,11,0,0
+Bayern,2019,11,0.987,0.19248623564774772
+Berlin,2019,11,0,0
+Borsod-Abaúj-Zemplén,2019,11,0.048,0.21387319079712103
+Bucharest,2019,11,0,0
+Budapest,2019,11,0.004,0.06315051850925682
+Burgas,2019,11,0,0
+Burgenland,2019,11,1.229,0.6056433321985322
+Calabria,2019,11,0,0
+California,2019,11,0,0
+Campania,2019,11,0,0
+Cantabria,2019,11,0.042,0.2006895021576273
+Castilla y León,2019,11,0,0
+Castilla-La Mancha,2019,11,0,0
+Cataluña,2019,11,0,0
+Ceuta y Melilla,2019,11,0,0
+Cluj,2019,11,0.002,0.04469897088298564
+Comunidad de Madrid,2019,11,0,0
+Comunidad Foral de Navarra,2019,11,0,0
+Comunidad Valenciana,2019,11,0,0
+Csongrád,2019,11,0,0
+Drenthe,2019,11,0,0
+Emilia-Romagna,2019,11,0,0
+Extremadura,2019,11,0,0
+Fier,2019,11,0,0
+Flevoland,2019,11,0,0
+Friesland,2019,11,0,0
+Friuli-Venezia Giulia,2019,11,0.441,0.49675523728066096
+Galicia,2019,11,0,0
+Gelderland,2019,11,0,0
+Grad Beograd,2019,11,0,0
+Grad Sofiya,2019,11,0,0
+Grad Zagreb,2019,11,0,0
+Groningen,2019,11,0,0
+Gyor-Moson-Sopron,2019,11,0.051,0.22010780869257557
+Hajdú-Bihar,2019,11,0.413,0.4926191974270529
+Heves,2019,11,0.331,0.5020707772577833
+Hong Kong,2019,11,0,0
+IJsselmeer,2019,11,0,0
+Islas Baleares,2019,11,0,0
+Islas Canarias,2019,11,0,0
+Istanbul,2019,11,0,0
+Jász-Nagykun-Szolnok,2019,11,0,0
+Južno-Bački,2019,11,0.027,0.162164414398774
+Kärnten,2019,11,0.9139999999999999,1.548576973601359
+Kocaeli,2019,11,0,0
+Komárom-Esztergom,2019,11,0.008,0.12196455164162598
+Krapinsko-Zagorska,2019,11,0.286,0.4521154812748712
+La Libertad,2019,11,0,0
+La Rioja,2019,11,0,0
+Lazio,2019,11,0,0
+Liguria,2019,11,0,0
+Limburg,2019,11,0.001,0.03162277660168379
+Lombardia,2019,11,0,0
+Macedonia and Thrace,2019,11,0,0
+Maharashtra,2019,11,0,0
+Marche,2019,11,0,0
+Molise,2019,11,0,0
+Niederösterreich,2019,11,0.274,0.8215960642767016
+Noord-Brabant,2019,11,0,0
+Noord-Holland,2019,11,0,0
+Normandie,2019,11,0,0
+Nouvelle-Aquitaine,2019,11,0,0
+Obalno-kraška,2019,11,0,0
+Oberösterreich,2019,11,2.16,2.8997854017107056
+Occitanie,2019,11,0,0
+Osrednjeslovenska,2019,11,0,0
+Overijssel,2019,11,0,0
+País Vasco,2019,11,0.007,0.10888835736032412
+Pest,2019,11,0.455,0.8286042067958935
+Piemonte,2019,11,0,0
+Principado de Asturias,2019,11,0.331,0.4708085180417413
+Prizren,2019,11,0,0
+Provence-Alpes-Côte d'Azur,2019,11,0,0
+Punjab,2019,11,0,0
+Razgrad,2019,11,0,0
+Región de Murcia,2019,11,0,0
+Rheinland-Pfalz,2019,11,0.007,0.08341437500789632
+Sakarya,2019,11,0,0
+Salzburg,2019,11,0.006,0.10219174981215341
+Sardegna,2019,11,0,0
+Sicily,2019,11,0,0
+Solothurn,2019,11,0.661,0.47360669685225454
+Somogy,2019,11,0,0
+Steiermark,2019,11,1.189,1.0550531722683973
+Telangana,2019,11,0,0
+Ticino,2019,11,0.351,0.4775217555536366
+Tiranë,2019,11,0,0
+Tirol,2019,11,0.726,0.5892942165182837
+Toscana,2019,11,0,0
+Trentino-Alto Adige,2019,11,0,0
+Umbria,2019,11,0,0
+Utrecht,2019,11,0,0
+Valle d'Aosta,2019,11,0,0
+Varna,2019,11,0,0
+Vas,2019,11,0.11,0.31304631925323445
+Veneto,2019,11,0,0
+Veszprém,2019,11,0,0
+Vlaanderen,2019,11,0,0
+Vorarlberg,2019,11,0.40900000000000003,0.6340487619662526
+Wien,2019,11,0.007,0.08341437500789632
+Zadarska,2019,11,0,0
+Zala,2019,11,0,0
+Zeeland,2019,11,0,0
+Zeeuwse meren,2019,11,0,0
+Zug,2019,11,0.924,0.26513071171460745
+Zuid Hollandse Meren,2019,11,0,0
+Zuid-Holland,2019,11,0,0
+Zürich,2019,11,0.989,0.10435463521037236
