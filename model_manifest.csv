@@ -1,7 +1,7 @@
-target,from,cell
-aegypti,2021,TRUE
-japonicus,2021,TRUE
-koreicus,2021,TRUE
-culex,2021,TRUE
-albopictus,2014,TRUE
-biting,2021,TRUE
+target,from,to,cell
+aegypti,2021-01,2023-03,TRUE
+japonicus,2021-01,2023-03,TRUE
+koreicus,2021-01,2023-03,TRUE
+culex,2021-01,2023-03,TRUE
+albopictus,2014-06,2023-03,TRUE
+biting,2021-01,2023-03,TRUE
